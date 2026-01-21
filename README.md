@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="assets/images/gke-goat-logo.png" alt="Logo" width="500"/>
+  <img src="static/gke-goat-logo.png" alt="Logo" width="500"/>
 </p>
 
 
@@ -22,25 +22,25 @@
     <!-- <a href="https://app.netlify.com/sites/gkesecurity/deploys">
         <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/YOUR-UUID-HERE/deploy-status" />
     </a> -->
-    <a href="https://github.com/kubernetesvillage/gke-goat/blob/main/LICENSE">
+    <a href="https://github.com/OWASP/www-project-gke-goat/blob/main/LICENSE.md">
         <img alt="License: GPL" src="https://img.shields.io/badge/License-GPL-blue.svg" />
     </a>
-    <a href="https://github.com/kubernetesvillage/gke-goat/releases/latest">
-        <!-- <img alt="GitHub release" src="https://img.shields.io/github/release/kubernetesvillage/gke-goat.svg" /> -->
+    <a href="https://github.com/OWASP/www-project-gke-goat/releases/latest">
+        <!-- <img alt="GitHub release" src="https://img.shields.io/github/release/OWASP/www-project-gke-goat.svg" /> -->
     </a>
-    <a href="https://github.com/kubernetesvillage/gke-goat/stargazers">
-        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/kubernetesvillage/gke-goat" />
+    <a href="https://github.com/OWASP/www-project-gke-goat/stargazers">
+        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/OWASP/www-project-gke-goat" />
     </a>
-    <a href="https://github.com/kubernetesvillage/gke-goat/network/members">
-        <img alt="GitHub Forks" src="https://img.shields.io/github/forks/kubernetesvillage/gke-goat" />
+    <a href="https://github.com/OWASP/www-project-gke-goat/network/members">
+        <img alt="GitHub Forks" src="https://img.shields.io/github/forks/OWASP/www-project-gke-goat" />
     </a>
-    <a href="https://github.com/kubernetesvillage/gke-goat/pulls">
+    <a href="https://github.com/OWASP/www-project-gke-goat/pulls">
         <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
     </a>
-    <a href="https://twitter.com/intent/tweet?text=Explore%20GKE%20Goat%20by%20@kubernetesvillage%20-%20an%20intentionally%20vulnerable%20GKE%20cluster%20for%20learning%20Google%20Kubernetes%20Engine%20security!%20https://github.com/kubernetesvillage/gke-goat">
-        <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https://github.com/kubernetesvillage/gke-goat" />
+    <a href="https://twitter.com/intent/tweet?text=Check%20out%20OWASP%20GKE%20Goat%20-%20an%20intentionally%20vulnerable%20GKE%20cluster%20for%20learning%20GCP%20GKE%20security%20by%20@owasp.&url=https://github.com/OWASP/www-project-gke-goat">
+        <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https://github.com/OWASP/www-project-gke-goat" />
     </a>
-    <a href="https://www.linkedin.com/feed/?shareActive=true&text=Kubernetes%20Village%20has%20launched%20GKE%20Goat%20-%20an%20intentionally%20vulnerable%20GKE%20cluster%20to%20learn%20real-world%20Google%20Cloud%20Kubernetes%20security%20scenarios.%20Explore%20labs,%20attacks,%20and%20defenses%20on%20https://github.com/kubernetesvillage/gke-goat!%20%23GKE%20%23KubernetesSecurity%20%23CloudSecurity%20%23kubernetesvillage">
+    <a href="https://www.linkedin.com/feed/?shareActive=true&text=OWASP%20has%20launched%20GKE%20Goat%20-%20an%20intentionally%20vulnerable%20GKE%20cluster%20to%20learn%20real-world%20Google%20Cloud%20Kubernetes%20security%20scenarios.%20Explore%20labs,%20attacks,%20and%20defenses%20on%20https://github.com/OWASP/www-project-gke-goat!%20%23GKE%20%23KubernetesSecurity%20%23CloudSecurity%20%23OWASP">
         <img alt="LinkedIn Share" src="https://img.shields.io/badge/LinkedIn-Share-blue?logo=linkedin" />
     </a>
     <a href="https://owasp.org/www-project-gke-goat/">
@@ -231,6 +231,7 @@ Your support helps us maintain and improve OWASP GKE Goat, create more education
 
 > Acknowledging the great work that helped shape GKE Goat. Reach out if we missed anyone!
 
+- [Ingress-Nginx CVE-2025-1974 - Vulhub](https://github.com/vulhub/vulhub/tree/master/ingress-nginx/CVE-2025-1974)
 - [Next.js CVE-2025-55182 RCE - Vulhub](https://github.com/vulhub/vulhub/tree/master/nextjs/CVE-2025-55182)
 - [Kubernetes Architecture](https://kubernetes.io/docs/concepts/architecture/)
 - [CVE-2025-1974 PoC by yoshino-s](https://github.com/yoshino-s/CVE-2025-1974/tree/main)
@@ -250,7 +251,6 @@ Your support helps us maintain and improve OWASP GKE Goat, create more education
 - [raesene.github.io](https://raesene.github.io/blog/2024/11/11/When-Is-Read-Only-Not-Read-Only/)
 - [BishopFox/badPods](https://github.com/BishopFox/badPods)
 - [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/docs/owasp-kubernetes-top-ten/)
-- [Ingress-Nginx CVE-2025-1974 - Vulhub](https://github.com/vulhub/vulhub/tree/master/ingress-nginx/CVE-2025-1974)
 
 
 > Special mention to [vulhub](https://github.com/vulhub) and the open-source security community for their invaluable contributions.
