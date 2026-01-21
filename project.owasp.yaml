@@ -1,0 +1,32 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Anjali Shukla
+    email: anjali.shukla@owasp.org
+    github: peachycloudsecurity
+    youtube: https://www.youtube.com/@peachycloudsecurity
+    sponsor: https://github.com/sponsors/peachycloudsecurity
+  - name: Divyanshu Shukla
+    email: divyanshu.shukla@owasp.org
+    github: justmorpheus
+    youtube: https://www.youtube.com/@peachycloudsecurity
+    sponsor: https://github.com/sponsors/peachycloudsecurity
+level: 2
+license:
+  - GPL-3.0
+name: OWASP GKE Goat
+pitch: An intentionally vulnerable GKE cluster designed for hands-on security testing and learning.
+repositories:
+  - name: www-project-gke-goat
+    url: https://github.com/OWASP/www-project-gke-goat
+    description: OWASP GKE Goat is a deliberately vulnerable GKE cluster environment to explore GCP cloud-native security through hands-on attack and defense labs with walkthrough.
+tags:
+  - gke
+  - gcp
+  - kubernetes-security
+  - cloud-security
+  - container-security
+  - gke-goat
+type: code
+website: https://owasp.org/www-project-gke-goat

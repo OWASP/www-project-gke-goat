@@ -1,16 +1,15 @@
 ### GKE Goat Information
 * [Incubator Project](#)
 * [Type of Project](#)
-* [Version 0.0.0](#)
+* [Version 1.0.0](#)
 * [Builder](#)
 * [Breaker](#)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### Documentation
+* [GKE Goat - Coming Soon](https://gkegoat.peachycloudsecurity.com)
 
 ### Code Repository
-* [repo](#)
+* [Github repo](https://github.com/OWASP/www-project-gke-goat)
 
 ### Change Log
 * [changes](#)
