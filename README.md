@@ -141,21 +141,6 @@ Dive into a series of captivating scenarios that will challenge your security sk
 _Coming soon_
 
 
-### Scenarios Documented
-
-#### Container & Image Security
-
-* Docker Image and Layer Analysis
-* Container Secrets Misuse
-* Static Scanning with Hadolint, Dockle
-* Docker Bench Security (CIS benchmark)
-
-#### GCP Container Registry Exploitation
-
-* GCR/Artifact Registry Image Scanning
-* Immutable Tag Enforcement
-* Credential Abuse for Private Registry Enumeration
-* Backdooring Docker Images in GCR/Artifact Registry
 
 #### GCP GKE Exploitation
 
@@ -166,19 +151,6 @@ _Coming soon_
 * Pod-to-Node Breakout in GKE
 * Privilege Escalation to Cloud Storage Access and Data Exfiltration
 * GCE Instance Cleanup Post Exploit
-
-#### Scanning & Auditing
-
-* Kubescape for Compliance Assessment
-* Kubebench for Node Security Benchmarking
-* Hadolint for Dockerfile Linting
-
-#### Runtime Defense & Hardening
-
-* Pod Security Context Enforcement
-* Kyverno (CEL) Policy Enforcement in GKE
-* Real-time Runtime Detection via eBPF Tetragon
-* Google Cloud Security Command Center Alerts for GKE Threats
 
 #### Environment Lifecycle
 
