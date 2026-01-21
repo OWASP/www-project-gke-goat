@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="static/gke-goat-logo.png" alt="Logo" width="500"/>
+  <img src="assets/images/gke-goat-logo.png" alt="Logo" width="500"/>
 </p>
 
 
