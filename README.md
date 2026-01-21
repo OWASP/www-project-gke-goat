@@ -228,4 +228,4 @@ Your support helps us maintain and improve OWASP GKE Goat, create more education
 > Special mention to [vulhub](https://github.com/vulhub) and the open-source security community for their invaluable contributions.
 
 
-Note: Kubernetes® is a registered trademark of The Linux Foundation
+PS: Kubernetes® is a registered trademark of The Linux Foundation. Also, this is not exploiting GKE zeroday. It focuses on attacking and defending misconfigured GKE.
